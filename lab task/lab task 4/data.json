@@ -1,0 +1,13 @@
+{
+    "data":[
+        {
+            "name": "alif",
+            "email": "alif@gmail.com",
+            "username":"alif1",
+            "password": "123",
+            "gender": "male",
+            "dob": "2020-10-25"
+            
+        }
+    ]
+}
